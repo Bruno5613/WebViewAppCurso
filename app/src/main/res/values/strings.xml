@@ -2,4 +2,6 @@
     <string name="app_name">WebViewApp</string>
     <string name="item_web_view">Página web</string>
     <string name="item_acerca_de">Acerca de</string>
+    <string name="bienvenido">¡Bienvenido!</string>
+    <string name="acerca_de_descripcion">Desarrollado por Bruno el 21 de junio del 2022</string>
 </resources>

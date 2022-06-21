@@ -18,6 +18,7 @@
             android:exported="false" />
         <activity
             android:name=".WebViewActivity"
+            android:screenOrientation="portrait"
             android:exported="false" />
         <activity
             android:name=".MainActivity"
@@ -30,4 +31,5 @@
         </activity>
     </application>
 
+    <uses-permission android:name="android.permission.INTERNET"></uses-permission>
 </manifest>

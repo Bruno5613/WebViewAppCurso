@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">WebViewApp</string>
+    <string name="item_web_view">Website</string>
+    <string name="item_acerca_de">About</string>
+    <string name="bienvenido">Welcome!</string>
+    <string name="acerca_de_descripcion">Developed by Bruno on June 21, 2022</string>
+</resources>
